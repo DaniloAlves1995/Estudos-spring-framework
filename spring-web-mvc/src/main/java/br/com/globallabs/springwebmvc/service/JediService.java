@@ -4,7 +4,6 @@ import br.com.globallabs.springwebmvc.exception.JediNotFoundException.JediNotFou
 import br.com.globallabs.springwebmvc.model.Jedi;
 import br.com.globallabs.springwebmvc.repository.JediRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
